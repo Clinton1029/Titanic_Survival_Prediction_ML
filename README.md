@@ -7,7 +7,7 @@
 
 A comprehensive machine learning project predicting passenger survival on the Titanic using various classification algorithms and advanced feature engineering techniques.
 
-## 📋 Table of Contents
+## 📋 Table of Contents:
 
 - [Overview](#overview)
 - [Key Features](#key-features)
