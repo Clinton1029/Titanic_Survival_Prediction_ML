@@ -45,9 +45,3 @@ This project demonstrates a complete machine learning pipeline for predicting Ti
 - Python 3.8+
 - pip package manager
 
-### Quick Start
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/titanic-ml-project.git
-cd titanic-ml-project
